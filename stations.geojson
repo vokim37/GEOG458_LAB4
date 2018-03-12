@@ -1,0 +1,21 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "Name": "University of Washington Station", "Address": "3720 Montlake Blvd NE, Seattle, WA" }, "geometry": { "type": "Point", "coordinates": [ -122.304502014604878, 47.649116032755074 ] } },
+{ "type": "Feature", "properties": { "Name": "Capitol Hill Station", "Address": "140 Broadway E., Seattle, WA" }, "geometry": { "type": "Point", "coordinates": [ -122.320825968262909, 47.6192193967835 ] } },
+{ "type": "Feature", "properties": { "Name": "Westlake Station", "Address": "4th Ave & Pine St., Seattle, WA" }, "geometry": { "type": "Point", "coordinates": [ -122.3376435, 47.611179 ] } },
+{ "type": "Feature", "properties": { "Name": "University Street Station", "Address": "3rd Ave & Seneca St., Seattle, WA" }, "geometry": { "type": "Point", "coordinates": [ -122.3353215, 47.607021 ] } },
+{ "type": "Feature", "properties": { "Name": "Pioneer Square Station", "Address": "3rd Ave & James St., Seattle, WA" }, "geometry": { "type": "Point", "coordinates": [ -122.3314425, 47.602755 ] } },
+{ "type": "Feature", "properties": { "Name": "Intl. District\/Chinatown Station", "Address": "5th Ave & S. Jackson St., Seattle, WA" }, "geometry": { "type": "Point", "coordinates": [ -122.327653500000011, 47.5992 ] } },
+{ "type": "Feature", "properties": { "Name": "Stadium Station", "Address": "501 S. Royal Brougham Way, Seattle, WA" }, "geometry": { "type": "Point", "coordinates": [ -122.32734829193376, 47.592329291933751 ] } },
+{ "type": "Feature", "properties": { "Name": "SODO Station", "Address": "500 S. Lander St., Seattle, WA" }, "geometry": { "type": "Point", "coordinates": [ -122.3264205, 47.579826518754551 ] } },
+{ "type": "Feature", "properties": { "Name": "Beacon Hill Station", "Address": "Beacon Ave S. & S. McClellan St., Seattle, WA" }, "geometry": { "type": "Point", "coordinates": [ -122.3115705, 47.578608 ] } },
+{ "type": "Feature", "properties": { "Name": "Mount Baker Station", "Address": "Rainier Ave S. between S. Winthrop St. and S. Forest St., Seattle, WA" }, "geometry": { "type": "Point", "coordinates": [ -122.32891575, 47.577717 ] } },
+{ "type": "Feature", "properties": { "Name": "Columbia City Station", "Address": "4818 Martin Luther King Jr. Was S., Seattle, WA" }, "geometry": { "type": "Point", "coordinates": [ -122.291962755179341, 47.558881393011674 ] } },
+{ "type": "Feature", "properties": { "Name": "Othello Station", "Address": "7100 Martin Luther King Jr Way S, Seattle, WA" }, "geometry": { "type": "Point", "coordinates": [ -122.281677535922569, 47.53864155620635 ] } },
+{ "type": "Feature", "properties": { "Name": "Rainier Beach Station", "Address": "9132 Martin Luther King Jr Way S, Seattle, WA" }, "geometry": { "type": "Point", "coordinates": [ -122.279593087685512, 47.521054948929567 ] } },
+{ "type": "Feature", "properties": { "Name": "Tukwila Intl. Blvd. Station", "Address": "15426 35th Ave S, Tukwila, WA" }, "geometry": { "type": "Point", "coordinates": [ -122.286828998667687, 47.464972712267247 ] } },
+{ "type": "Feature", "properties": { "Name": "SeaTac\/Airport Station", "Address": "International Blvd & S 176th St, SeaTac, WA" }, "geometry": { "type": "Point", "coordinates": [ -122.296203, 47.445246 ] } },
+{ "type": "Feature", "properties": { "Name": "Angle Lake Station", "Address": "19955 28th Ave South, SeaTac, WA" }, "geometry": { "type": "Point", "coordinates": [ -122.297662144000597, 47.42265057297022 ] } }
+]
+}
